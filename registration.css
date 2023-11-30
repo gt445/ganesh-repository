@@ -1,0 +1,59 @@
+body{
+    background-color: aquamarine;
+}
+.add{
+    width: 350px;
+    height:px;
+    border-radius: 10px;
+    border-color: blueviolet;
+    border-width: 4px;
+    word-spacing: 5px;
+    font-size: 25px;
+    padding-bottom: 100px;
+}
+.hii{
+    border-radius: 6px;
+    border-color: brown;
+    border-width: 4px ;
+    
+}
+.hii:hover{
+    border-color: blue;
+}
+.inp{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px ;
+    border-width: 5px;
+}
+.name{
+    color: rgb(4, 4, 15);
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: aqua;
+}
+.hello{
+    background-color: rgb(48, 29, 6);
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: blueviolet;
+    width: 700px;
+    height: 900px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+.sub{
+    width: 80px;
+    height: 35px;
+    border-radius: 3px;
+    border-color: orange;
+    border-width:5px;
+    font-size: 20px;
+    text-align: center;
+}
+.inpt{
+    color: rgb(237, 226, 226);
+    font-size: 25px;
+}
